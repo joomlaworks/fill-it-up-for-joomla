@@ -93,5 +93,5 @@ defined('_JEXEC') or die ;
 	</table>
 </div>
 <div id="fillItUpAdminFooter">
-	Fill It Up v1.0 | Copyright &copy; 2006-<?php echo date('Y'); ?> <a target="_blank" href="http://www.joomlaworks.net/">JoomlaWorks Ltd.</a>
+	Fill It Up v1.0.0 | Copyright &copy; 2006-<?php echo date('Y'); ?> <a target="_blank" href="http://www.joomlaworks.net/">JoomlaWorks Ltd.</a>
 </div>
