@@ -32,7 +32,7 @@ In the future, we plan to release pre-built sets of definition files from other 
 
 
 ## Use it
-1. Get the latest build, ready to upload to Joomla: [PENDING](http://www.joomlaworks.net/downloads/?f=jw_fillitup_for_joomla-v1.0.0.zip) (please DO NOT use the zip file download provided by GitHub automatically)
+1. Get the latest build, ready to upload to Joomla: http://www.joomlaworks.net/downloads/?f=jw_fillitup_for_joomla-v1.0.0_j2.5-3.x.zip (please DO NOT use the zip file download provided by GitHub automatically)
 2. Edit the component's options and add this demo definition file:
    - If you already use HTTPS: https://cdn.joomlaworks.org/fillitup/demo/900x600.json
    - If you get any issues related to SSL (especially while testing Fill It Up locally), use this URL instead: http://cdn.joomlaworks.org/fillitup/demo/900x600_plain_http.json
@@ -50,6 +50,10 @@ You'll notice that this file references some .zip files. These .zip files contai
 
 ## Upgrading
 Just install the latest build on top of any previous installation.
+
+
+## Requirements
+Fill It Up for Joomla requires Joomla 2.5 or 3.x and K2 v2.6.x if you wish to create dummy content for K2 specifically.
 
 
 ***Enjoy and share it :)***
