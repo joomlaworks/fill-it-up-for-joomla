@@ -53,7 +53,7 @@ Just install the latest build on top of any previous installation.
 
 
 ## Requirements
-Fill It Up for Joomla requires Joomla 2.5 or 3.x and K2 v2.6.x if you wish to create dummy content for K2 specifically.
+Fill It Up for Joomla requires Joomla 2.5 or 3.x and K2 v2.6.x or newer if you wish to create dummy content for K2 specifically (obviously).
 
 
 ***Enjoy and share it :)***
