@@ -8,7 +8,7 @@ By using Fill It Up you speed up the initial development process until actual, p
 
 It's that simple. Really :)
 
-That's why it took only a few minutes to set up this demo site: [PENDING]
+That's why it only took a few minutes to do the initial set up for this site: https://demo.getk2.org/
 
 Fill It Up for Joomla can generate: Joomla articles, K2 items (with comments & rich media) and Joomla users. In the future we plan on adding content adapters so more Joomla extensions are supported out of the box.
 
@@ -18,7 +18,7 @@ Fill It Up for Joomla can generate: Joomla articles, K2 items (with comments & r
 
 
 ## Demos
-Check out the official demo site: [PENDING]
+Check out a demo site: https://demo.getk2.org/ (Takai template for Joomla is available for free at http://www.joomlaworks.net/joomla-templates/free-templates/takai)
 
 *Are you a theme developer using Fill It Up (for Joomla)? [Get in touch with us](http://www.joomlaworks.net/support/contact) and ask to include your demo sites here too!*
 
