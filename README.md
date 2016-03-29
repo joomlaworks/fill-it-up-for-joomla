@@ -14,7 +14,8 @@ Fill It Up for Joomla can generate: Joomla articles, K2 items (with comments & r
 
 
 ## Screenshots
-[PENDING]
+![Fill It Up for Joomla](https://cdn.joomlaworks.org/fillitup/assets/fill-it-up_for_joomla_v1.x_preview.png)
+
 
 ## Demos
 Check out the official demo site: [PENDING]
