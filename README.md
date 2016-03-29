@@ -10,6 +10,8 @@ It's that simple. Really :)
 
 That's why it took only a few minutes to set up this demo site: [PENDING]
 
+Fill It Up for Joomla can generate: Joomla articles, K2 items (with comments & rich media) and Joomla users. In the future we plan on adding content adapters so more Joomla extensions are supported out of the box.
+
 
 ## Screenshots
 [PENDING]
@@ -25,7 +27,7 @@ Custom dummy content should not be hard to make. Unlike other solutions, you get
 
 It's what we like to call "curated sample data sets"!
 
-In the future, we plan to release pre-built sets of definition files from other users, covering different types of dummy content (e.g. politics, cars, design, fashion, news etc.) for anyone to re-use and get from prototyping to a production ready WordPress site in hours, not days!
+In the future, we plan to release pre-built sets of definition files from other users, covering different types of dummy content (e.g. politics, cars, design, fashion, news etc.) for anyone to re-use and get from prototyping to a production ready Joomla site in hours, not days!
 
 
 ## Use it
