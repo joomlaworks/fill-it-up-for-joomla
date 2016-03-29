@@ -31,8 +31,8 @@ In the future, we plan to release pre-built sets of definition files from other 
 
 
 ## Use it
-1. Get the latest build, ready to upload to Joomla: http://www.joomlaworks.net/downloads/?f=jw_fillitup_for_joomla-v1.0.0.zip (please DO NOT use the zip file download provided by GitHub automatically)
-2. Edit the component's Settings and add this demo definition file:
+1. Get the latest build, ready to upload to Joomla: [PENDING](http://www.joomlaworks.net/downloads/?f=jw_fillitup_for_joomla-v1.0.0.zip) (please DO NOT use the zip file download provided by GitHub automatically)
+2. Edit the component's options and add this demo definition file:
    - If you already use HTTPS: https://cdn.joomlaworks.org/fillitup/demo/900x600.json?upd
    - If you get any issues related to SSL (especially while testing Fill It Up locally), use this URL instead: http://cdn.joomlaworks.org/fillitup/demo/900x600_plain_http.json
 3. Go back to the main component page and choose one of the (currently) three options for content & user generation.
