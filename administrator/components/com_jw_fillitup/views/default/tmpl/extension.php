@@ -12,20 +12,20 @@ defined('_JEXEC') or die ;
 ?>
 
 <script type="text/javascript">
-Joomla.submitbutton = function(pressbutton){
-    if(pressbutton == 'popup') {
-        var answer = confirm('<?php echo JText::_('COM_JW_FILLITUP_WARNING', true); ?>');
-        if (answer){
-            window.open('', '<?php echo $this->extension; ?>GeneratorPopUp', 'width=320,height=180,0,0');
-            submitform( pressbutton );
-        }
-    }
-    else {
-        jQuery('#adminForm').attr('target', '_self');
-        submitform( pressbutton );
-    }
-}
+	Joomla.submitbutton = function(pressbutton){
+	    if(pressbutton == 'popup') {
+	        var answer = confirm('<?php echo JText::_('COM_JW_FILLITUP_WARNING', true); ?>');
+	        if (answer){
+	            window.open('', '<?php echo $this->extension; ?>GeneratorPopUp', 'width=700,height=500,0,0');
+	            submitform( pressbutton );
+	        }
+	    } else {
+	        jQuery('#adminForm').attr('target', '_self');
+	        submitform( pressbutton );
+	    }
+	}
 </script>
+
 <div class="fillItUpContainer">
     <form action="<?php echo JRoute::_('index.php'); ?>" method="post" id="adminForm" name="adminForm" target="<?php echo $this->extension; ?>GeneratorPopUp">
         <h2><?php echo $this->title; ?></h2>
