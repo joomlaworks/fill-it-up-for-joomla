@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+    <fieldset name="imageSettings" label="PLG_FILLITUP_CONTENT_IMAGE_SETTINGS" description="PLG_FILLITUP_CONTENT_IMAGE_SETTINGS_DESC">
+        <field name="introtextImage" type="text" default="400" label="PLG_FILLITUP_CONTENT_INTRO_IMAGE" />
+        <field name="fulltextImage" type="text" default="600" label="PLG_FILLITUP_CONTENT_FULL_ARTICLE_IMAGE" />
+        <field name="catImageWidth" type="text" default="200" label="PLG_FILLITUP_CONTENT_CATEGORY_IMAGE" />
+    </fieldset>
+	<fieldset name="authorSettings" label="PLG_FILLITUP_CONTENT_AUTHOR_SETTINGS">
+		<field name="articlesAuthor" type="list" default="self" label="PLG_FILLITUP_CONTENT_ARTICLES_AUTHOR">
+			<option value="self">PLG_FILLITUP_CONTENT_USE_YOUR_ACCOUNT</option>
+			<option value="random">PLG_FILLITUP_CONTENT_USE_RANDOM_JOOMLA_USERS</option>
+		</field>
+	</fieldset>
+</form>

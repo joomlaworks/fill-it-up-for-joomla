@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="2.5" method="upgrade">
+	<name>com_jw_fillitup</name>
+	<author>JoomlaWorks</author>
+	<creationDate>March 15th, 2016</creationDate>
+	<copyright>Copyright (c) 2006 - 2016 JoomlaWorks Ltd. All rights reserved.</copyright>
+	<authorEmail>please-use-the-contact-form@joomlaworks.net</authorEmail>
+	<authorUrl>www.joomlaworks.net</authorUrl>
+	<version>1.0</version>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description></description>
+	<scriptfile>script.fillitup.php</scriptfile>
+	<administration>
+		<menu img="components/com_jw_fillitup/images/fillitup-icon.png">COM_JW_FILLITUP</menu>
+		<files folder="administrator/components/com_jw_fillitup">
+			<folder>css</folder>
+			<folder>helpers</folder>
+			<folder>images</folder>
+			<folder>js</folder>
+			<folder>lib</folder>
+			<folder>views</folder>
+			<filename>access.xml</filename>
+			<filename>config.xml</filename>
+			<filename>controller.php</filename>
+			<filename>jw_fillitup.php</filename>
+		</files>
+		<languages folder="administrator/language/en-GB">
+			<language tag="en-GB">en-GB.com_jw_fillitup.ini</language>
+			<language tag="en-GB">en-GB.com_jw_fillitup.sys.ini</language>
+		</languages>
+	</administration>
+	<config>
+		<fields>
+			<fieldset></fieldset>
+		</fields>
+	</config>
+	<plugins>
+		<plugin plugin="k2" group="fillitup" />
+		<plugin plugin="content" group="fillitup" />
+		<plugin plugin="users" group="fillitup" />
+	</plugins>
+</extension>

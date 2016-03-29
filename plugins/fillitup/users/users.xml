@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="fillitup" method="upgrade">
+    <name>plg_fillitup_users</name>
+    <author>JoomlaWorks</author>
+    <creationDate>March 15th, 2016</creationDate>
+    <copyright>Copyright (c) 2006 - 2016 JoomlaWorks Ltd. All rights reserved.</copyright>
+    <authorEmail>please-use-the-contact-form@joomlaworks.net</authorEmail>
+    <authorUrl>www.joomlaworks.net</authorUrl>
+    <version>1.0</version>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <description></description>
+    <files>
+        <filename plugin="users">users.php</filename>
+        <filename>settings.xml</filename>
+        <filename>icon.png</filename>
+    </files>
+    <languages>
+        <language tag="en-GB">en-GB.plg_fillitup_users.sys.ini</language>
+    </languages>
+    <config></config>
+</extension>

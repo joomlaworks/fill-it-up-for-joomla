@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset name="imageSettings" label="PLG_FILLITUP_K2_IMAGE_SETTINGS" description="PLG_FILLITUP_K2_IMAGE_SETTINGS_DESC" addfieldpath="/plugins/fillitup/k2/fields">
+		<field name="images" label="PLG_FILLITUP_K2_ITEM_IMAGES" type="k2images" />
+		<field name="catImageWidth" type="text" default="200" label="PLG_FILLITUP_K2_CATEGORY_IMAGE" />
+	</fieldset>
+	<fieldset name="authorSettings" label="PLG_FILLITUP_K2_AUTHOR_SETTINGS">
+		<field name="itemsAuthor" type="radio" default="self" label="PLG_FILLITUP_K2_ITEMS_AUTHOR">
+			<option value="self">PLG_FILLITUP_K2_USE_YOUR_ACCOUNT</option>
+			<option value="random">PLG_FILLITUP_K2_USE_RANDOM_JOOMLA_USERS</option>
+		</field>
+		<field name="users" type="text" default="0" label="PLG_FILLITUP_K2_NUM_OF_USERS_TO_GENERATE" />
+		<field name="groups" multiple="true" size="20" type="usergroup" label="PLG_FILLITUP_K2_USER_GROUPS" />
+	</fieldset>
+	<fieldset name="commentsSettings" label="PLG_FILLITUP_K2_COMMENTS_SETTINGS">
+		<field name="numOfCommentsPerItem" type="text" default="0" label="PLG_FILLITUP_K2_NUM_OF_COMMENTS_PER_ITEM" />
+	</fieldset>
+</form>

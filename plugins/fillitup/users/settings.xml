@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+    <fieldset name="userSettings" label="PLG_FILLITUP_USERS_USER_SETTINGS" >
+        <field name="groups" multiple="true" size="20" type="usergroup" label="PLG_FILLITUP_USERS_USER_GROUPS" />
+    </fieldset>
+</form>
