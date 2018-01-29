@@ -437,7 +437,7 @@ class plgFillItUpK2 extends JPlugin
 			{
 				return;
 			}
-			JLoader::register('Upload', JPATH_ADMINISTRATOR.'/components/com_k2/lib/class.upload.php');
+			JLoader::register('Upload', JPATH_ADMINISTRATOR.'/components/com_jw_fillitup/lib/class.upload.php');
 			$savepath = JPATH_SITE.'/media/k2/categories';
 			$handle = new Upload($image);
 			$handle->allowed = array('image/*');
@@ -458,7 +458,7 @@ class plgFillItUpK2 extends JPlugin
 
 	protected function createItemImages($id, $catid, $params)
 	{
-		JLoader::register('Upload', JPATH_ADMINISTRATOR.'/components/com_k2/lib/class.upload.php');
+		JLoader::register('Upload', JPATH_ADMINISTRATOR.'/components/com_jw_fillitup/lib/class.upload.php');
 		$image = $this->getRandomImage($catid);
 
 		if (!$image)
