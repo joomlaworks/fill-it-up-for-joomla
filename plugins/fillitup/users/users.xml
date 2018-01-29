@@ -2,11 +2,11 @@
 <extension version="2.5" type="plugin" group="fillitup" method="upgrade">
     <name>plg_fillitup_users</name>
     <author>JoomlaWorks</author>
-    <creationDate>March 29th, 2016</creationDate>
-    <copyright>Copyright (c) 2006 - 2016 JoomlaWorks Ltd. All rights reserved.</copyright>
+    <creationDate>January 29th, 2018</creationDate>
+    <copyright>Copyright (c) 2006 - 2018 JoomlaWorks Ltd. All rights reserved.</copyright>
     <authorEmail>please-use-the-contact-form@joomlaworks.net</authorEmail>
     <authorUrl>www.joomlaworks.net</authorUrl>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <license>http://www.gnu.org/licenses/gpl-3.0.html GNU/GPL</license>
     <description></description>
     <files>

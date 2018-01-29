@@ -3,7 +3,7 @@
  * @version    1.x
  * @package    Fill It Up
  * @author     JoomlaWorks http://www.joomlaworks.net
- * @copyright  Copyright (c) 2006 - 2016 JoomlaWorks Ltd. All rights reserved.
+ * @copyright  Copyright (c) 2006 - 2018 JoomlaWorks Ltd. All rights reserved.
  * @license    http://www.joomlaworks.net/license
  */
 
@@ -27,7 +27,7 @@ jimport('joomla.filesystem.file');
 require_once JPATH_COMPONENT.'/helpers/extension.php';
 
 $document = JFactory::getDocument();
-$document->addStyleSheet(JURI::base(true).'/components/com_jw_fillitup/css/style.css?v=1.0.0');
+$document->addStyleSheet(JURI::base(true).'/components/com_jw_fillitup/css/style.css?v=1.1.0');
 if (version_compare(JVERSION, '3.2', 'lt'))
 {
 	$document->addScript('//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js');
@@ -36,7 +36,7 @@ else
 {
 	JHtml::_('jquery.framework');
 }
-$document->addScript(JURI::base(true).'/components/com_jw_fillitup/js/script.js?v=1.0.0');
+$document->addScript(JURI::base(true).'/components/com_jw_fillitup/js/script.js?v=1.1.0');
 
 $controller = JControllerLegacy::getInstance('FillItUp');
 $controller->execute($application->input->get('task'));

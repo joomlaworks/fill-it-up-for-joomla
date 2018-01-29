@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <config>
     <fieldset name="COM_JW_FILLITUP_SYSTEM_SETTINGS">
-        <field name="definitionsUrl" type="text" default="" size="100" label="COM_JW_FILLITUP_DEFINITIONS_URL" description="COM_JW_FILLITUP_DEFINITIONS_URL_DESC" />
+        <field name="definitionsUrl" type="text" default="https://cdn.joomlaworks.org/fillitup/demo/900x600.json" size="100" label="COM_JW_FILLITUP_DEFINITIONS_URL" description="COM_JW_FILLITUP_DEFINITIONS_URL_DESC" />
     </fieldset>
     <fieldset name="permissions" label="JCONFIG_PERMISSIONS_LABEL" description="JCONFIG_PERMISSIONS_DESC">
         <field name="rules" type="rules" label="JCONFIG_PERMISSIONS_LABEL" class="inputbox" validate="rules" filter="rules" component="com_jw_fillitup" section="component" />

@@ -3,7 +3,7 @@
  * @version    1.x
  * @package    Fill It Up
  * @author     JoomlaWorks http://www.joomlaworks.net
- * @copyright  Copyright (c) 2006 - 2016 JoomlaWorks Ltd. All rights reserved.
+ * @copyright  Copyright (c) 2006 - 2018 JoomlaWorks Ltd. All rights reserved.
  * @license    http://www.joomlaworks.net/license
  */
 
@@ -67,5 +67,5 @@ jQuery(document).ready(function() {
     </form>
 </div>
 <div id="fillItUpAdminFooter">
-    Fill It Up v1.0.0 | Copyright &copy; 2006-<?php echo date('Y'); ?> <a target="_blank" href="http://www.joomlaworks.net/">JoomlaWorks Ltd.</a>
+    Fill It Up v1.1.0 | Copyright &copy; 2006-<?php echo date('Y'); ?> <a target="_blank" href="http://www.joomlaworks.net/">JoomlaWorks Ltd.</a>
 </div>

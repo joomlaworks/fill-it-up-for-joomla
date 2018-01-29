@@ -2,7 +2,7 @@
  * @version    1.x
  * @package    Fill It Up
  * @author     JoomlaWorks http://www.joomlaworks.net
- * @copyright  Copyright (c) 2006 - 2016 JoomlaWorks Ltd. All rights reserved.
+ * @copyright  Copyright (c) 2006 - 2018 JoomlaWorks Ltd. All rights reserved.
  * @license    http://www.joomlaworks.net/license
  */
 

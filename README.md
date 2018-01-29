@@ -1,4 +1,4 @@
-# Fill It Up (for Joomla) [v1.0.0]
+# Fill It Up (for Joomla) [v1.1.0]
 ***
 Fill It Up for Joomla is a handy free extension to mass generate content &amp; users in Joomla.
 
@@ -32,7 +32,7 @@ In the future, we plan to release pre-built sets of definition files from other 
 
 
 ## Use it
-1. Get the latest build, ready to upload to Joomla: http://www.joomlaworks.net/downloads/?f=jw_fillitup_for_joomla-v1.0.0_j2.5-3.x.zip (please DO NOT use the zip file download provided by GitHub automatically)
+1. Get the latest build, ready to upload to Joomla: http://www.joomlaworks.net/downloads/?f=jw_fillitup_for_joomla-v1.1.0_j3.x.zip (please DO NOT use the zip file download provided by GitHub automatically)
 2. Edit the component's options and add this demo definition file:
    - If you already use HTTPS: https://cdn.joomlaworks.org/fillitup/demo/900x600.json
    - If you get any issues related to SSL (especially while testing Fill It Up locally), use this URL instead: http://cdn.joomlaworks.org/fillitup/demo/900x600_plain_http.json
@@ -53,7 +53,7 @@ Just install the latest build on top of any previous installation.
 
 
 ## Requirements
-Fill It Up for Joomla requires Joomla 2.5 or 3.x and K2 v2.6.x or newer if you wish to create dummy content for K2 specifically (obviously).
+Fill It Up for Joomla requires Joomla 3.x and K2 v2.6.x or newer if you wish to create dummy content for K2 specifically (obviously).
 
 
 ***Enjoy and share it :)***
@@ -61,4 +61,4 @@ Fill It Up for Joomla requires Joomla 2.5 or 3.x and K2 v2.6.x or newer if you w
 ===
 Fill It Up for Joomla is released under the GNU/GPL license.
 
-Copyright (c) 2006 - 2016 [JoomlaWorks Ltd.](http://www.joomlaworks.net)
+Copyright (c) 2006 - 2018 [JoomlaWorks Ltd.](https://www.joomlaworks.net)
